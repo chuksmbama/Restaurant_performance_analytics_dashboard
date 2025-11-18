@@ -8,8 +8,11 @@ The objective of this analysis is to evaluate overall restaurant performance by 
 
 
 ## Dashboard
-<img width="1501" height="838" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/d99b18ad-3955-4373-b39a-69e43a113999" />
-<img width="1494" height="835" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/c2ccdfdd-47e8-4937-86e4-3115e869ccc5" />
-<img width="1489" height="836" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/94eb87c5-d477-42b3-ae12-4b26e1d6e503" />
-<img width="1494" height="837" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/1d2ed03c-a8bb-49d0-8e5a-041d4f51bbd7" />
+<img width="1483" height="848" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/57bae224-312e-4d67-9c12-9df090b5d385" />
+<img width="1490" height="830" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/ec46d50c-6526-42fa-a6cc-66d44c26c91e" />
+<img width="1488" height="832" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/71f9841f-8039-4302-a6e8-ba9ab07978e3" />
+<img width="1484" height="830" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/b66d5ee5-a6d6-4d7e-8c07-c6a2891ad962" />
+
+
+
 
